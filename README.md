@@ -1,2 +1,4 @@
 # Cmake_test
-a project for cmake study
+這是大一下學期的C++大作業，做一個簡單的學生管理系統
+用來學習cmake多目錄多文件情況下的編譯
+
